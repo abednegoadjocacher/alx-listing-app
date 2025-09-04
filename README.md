@@ -18,6 +18,7 @@ Enter the the follow commands in your terminal and press ENTER
 4. Start your server with the command **npm run dev** in your terminal.
 ![output](assets/direction.jpg)
 You should have the same output above. Press **CTRL** key and click on where the arrow in the image is pointing to open your project in the browser.
+5. You should see this 👇🏿👇🏿👇🏿 ![final-output](assets/Final.jpg) in your browser🙌🙌
 
 # Read more on how Install Tailwind CSS with Next.js
 - [Tailwindcss-documentaion](https://tailwindcss.com/docs/installation/framework-guides/nextjs) 
